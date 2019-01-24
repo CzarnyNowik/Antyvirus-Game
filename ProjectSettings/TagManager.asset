@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Spawn
+  - Hdd
+  - Worm
+  - Horse
+  - Makro
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - LeftSide
+  - RightSide
+  - CenterSide
+  - Makrowirus
+  - Robak
+  - "Ko\u0144"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3900755089
+    locked: 0
+  - name: Objects
+    uniqueID: 2656168775
+    locked: 0
+  - name: Characters
+    uniqueID: 2577789357
+    locked: 0
+  - name: Player
+    uniqueID: 3185705787
+    locked: 0
