@@ -4485,7 +4485,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthPoints: 100
-  enemiesDamage: 32000000320000000f000000
+  enemiesDamage: 050000000a0000000f000000
   gameManager: {fileID: 1240157999}
   healthBarSlider: {fileID: 1094389547}
 --- !u!1 &1529679389
